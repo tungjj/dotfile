@@ -1,0 +1,13 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "ts",
+    "js",
+    "json",
+    "cpp",
+    "c"
+  ],
+  "coc.preferences.extensionUpdateCheck": "weekly",
+  "colors.filetypes": ["*"]
+}
