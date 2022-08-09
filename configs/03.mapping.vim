@@ -26,6 +26,6 @@ noremap <silent> b. :bn<cr>
 " previous buffer
 noremap <silent> b, :bp<cr>
 " delete a buffer (close a file)
-noremap <silent> bc :bd<cr>
+noremap <silent> bd :bd<cr>
 
 
